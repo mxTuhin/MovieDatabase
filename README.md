@@ -1,0 +1,1 @@
+CSE370 Project Files. Design has been Collected from the Web. I have reserved the designs in case you need any page of them. I have blocked uploading the config file. so you need to create a dbConfig.php file at config/ directory
